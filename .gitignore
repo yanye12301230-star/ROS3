@@ -1,0 +1,15 @@
+# ROS 临时文件
+devel/
+build/
+logs/
+install/
+.catkin_workspace
+
+# 编译器与系统
+.vscode/
+.idea/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
